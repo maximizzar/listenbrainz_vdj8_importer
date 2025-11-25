@@ -1,0 +1,13 @@
+[project]
+name = "listenbrainz-vdj8-importer"
+version = "0.1.0"
+description = "Python script to import Virtual Dj 8 History m3u files into the listenbrainz API"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "liblistenbrainz>=0.6.1",
+    "platformdirs>=4.5.0",
+    "tabulate>=0.9.0",
+    "toml>=0.10.2",
+    "typer>=0.20.0",
+]
