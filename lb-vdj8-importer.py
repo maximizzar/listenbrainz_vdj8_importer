@@ -1,3 +1,4 @@
+#!/home/maximizzar/.local/src/listenbrainz_vdj8_importer/.venv/bin/python
 # SPDX-FileCopyrightText: 2025 maximizzar <mail@maximizzar.de>
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
